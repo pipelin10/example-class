@@ -2,7 +2,7 @@
 Kevin Cambindo  
 <<<<<<< HEAD
 Valentina Sanchez Rosero
-Juan Miguel Rojas Noriega
+Juan Miguel Rojas Noriega  
 =======
 Valentina Sanchez Rosero  
 Jose Henao Montes
