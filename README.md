@@ -3,5 +3,6 @@ Kevin Cambindo
 Valentina Sanchez Rosero  
 Juan Miguel Rojas Noriega  
 Jose Henao Montes  
-David Camilo Ordoñez Marin
-Stiven Castro
+Stiven Castro  
+David Camilo Ordoñez Marin  
+Esteban Camilo Martinez Urbano
