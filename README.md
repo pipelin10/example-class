@@ -4,4 +4,9 @@ Valentina Sanchez Rosero
 Juan Miguel Rojas Noriega  
 Jose Henao Montes  
 David Camilo Ordoñez Marin  
-Ana Lucia Morales 
+Esteban Camilo Martinez Urbano  
+Sarahy Gisselle Caicedo  
+Miguel Angel Caicedo  
+Stiven Castro  
+Kevin Giron  
+Ana Lucia Morales  
