@@ -6,5 +6,5 @@ Jose Henao Montes
 David Camilo Ordoñez Marin  
 Esteban Camilo Martinez Urbano  
 Sarahy Gisselle Caicedo 
-Miguel Angel Caicedo
-Stiven Castro
+Miguel Angel Caicedo  
+Stiven Castro  
