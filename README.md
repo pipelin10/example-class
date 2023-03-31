@@ -10,3 +10,4 @@ Miguel Angel Caicedo
 Stiven Castro  
 Kevin Giron  
 Ana Lucia Morales  
+Jean Heyller Palomino Hinestroza  
