@@ -3,6 +3,9 @@ Kevin Cambindo
 Valentina Sanchez Rosero  
 Juan Miguel Rojas Noriega  
 Jose Henao Montes  
-David Camilo Ordoñez Marin
+David Camilo Ordoñez Marin  
 Esteban Camilo Martinez Urbano  
-Kevin Giron
+Sarahy Gisselle Caicedo  
+Miguel Angel Caicedo  
+Stiven Castro  
+Kevin Giron  
