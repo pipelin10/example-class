@@ -15,4 +15,4 @@ Ana Lucia Morales
 Jean Heyller Palomino Hinestroza  
 Margarita Grisales   
 Jose David Giraldo
-Jhonier Ipia Noscue
+jhonier ipia noscue
