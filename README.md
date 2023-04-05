@@ -14,5 +14,5 @@ Kevin Giron
 Ana Lucia Morales  
 Jean Heyller Palomino Hinestroza  
 Margarita Grisales   
-Jose David Giraldo
-jhonier ipia noscue
+Jose David Giraldo 
+Jhonier ipia noscue
