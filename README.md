@@ -1,5 +1,4 @@
-### Programación Orientada a Eventos - Estudiantes:
-
+### Programación Orientada a Eventons - Estudiantes:   
 Kevin Cambindo  
 Jose Erley Murillo  
 Valentina Sanchez Rosero  
@@ -14,5 +13,7 @@ Kevin Giron
 Ana Lucia Morales  
 Jean Heyller Palomino Hinestroza  
 Margarita Grisales   
-Jose David Giraldo 
-Jhonier ipia noscue
+Jose David Giraldo  
+Federico Barbetti   
+Jhonier ipia noscue  
+
